@@ -1,0 +1,4 @@
+{
+  "npmToken": "{{ secrets.NPM_TOKEN }}",
+  "npmrc": "@designsystems:registry=https://artifactory.company.com/artifactory/api/npm/common-npm/:_auth=${NPM_TOKEN}"
+}
